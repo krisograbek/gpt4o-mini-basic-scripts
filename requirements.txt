@@ -2,3 +2,4 @@ openai
 langchain
 llama-index
 python-dotenv
+langchain-openai
